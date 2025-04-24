@@ -1,0 +1,4 @@
+--target-hash160 61eb8a50c86b0584bb727dd65bed8d2400d6d5aa
+--range-start 0x100000000000000000
+--range-end 0x1fffffffffffffffff
+--threads 8
